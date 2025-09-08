@@ -31,3 +31,31 @@ This tool is powered by **language models** and embeddings to deliver accurate a
    ```bash
    git clone https://github.com/Lucifer7344/AskMyPDFs.git
    cd AskMyPDFs
+
+## Create a virtual environment (recommended):
+
+python -m venv venv
+source venv/bin/activate   # On macOS/Linux
+venv\Scripts\activate      # On Windows
+
+##Install dependencies:
+
+pip install -r requirements.txt
+
+
+##▶️ Usage
+
+Run the app:
+
+python app.py
+
+
+Upload your PDF files when prompted.
+
+Start asking questions like:
+
+"What is the summary of chapter 3?"
+
+"List all references mentioned in the document."
+
+"What are the key points of section 2?"

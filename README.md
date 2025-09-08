@@ -1,33 +1,33 @@
-# MultiPDF Chat App
+# AskMyPDFs 📄💬  
 
-## Introduction
+AskMyPDFs is a Python application that allows you to **chat with multiple PDF documents**.  
+You can ask natural language questions about the PDFs, and the app will provide relevant responses based on their content.  
 
-The MultiPDF Chat App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.
-
----
-
-## How It Works
-
-The application follows these steps to provide responses to your questions:
-
-1. **PDF Loading:** The app reads multiple PDF documents and extracts their text content.
-
-2. **Text Chunking:** The extracted text is divided into smaller chunks that can be processed effectively.
-
-3. **Language Model:** The application utilizes a language model to generate vector representations (embeddings) of the text chunks.
-
-4. **Similarity Matching:** When you ask a question, the app compares it with the text chunks and identifies the most semantically similar ones.
-
-5. **Response Generation:** The selected chunks are passed to the language model, which generates a response based on the relevant content of the PDFs.
+This tool is powered by **language models** and embeddings to deliver accurate and contextual answers from your documents.  
 
 ---
 
-## Dependencies and Installation
+## 🚀 Features
+- 📂 **Load multiple PDFs** at once.  
+- ✂️ **Text Chunking** for better processing.  
+- 🧠 **Semantic Search** using embeddings.  
+- 💡 **Contextual Q&A** with relevant PDF content only.  
+- 🐍 Built with **Python** for flexibility and ease of use.  
 
-To install the MultiPDF Chat App, please follow these steps:
+---
 
-1. Clone the repository to your local machine:
+## ⚙️ How It Works
+1. **PDF Loading** – Reads multiple PDF documents and extracts their text.  
+2. **Text Chunking** – Splits extracted text into smaller, manageable chunks.  
+3. **Embeddings Generation** – Converts chunks into vector representations using a language model.  
+4. **Similarity Matching** – Finds the most relevant chunks based on your query.  
+5. **Response Generation** – The language model generates an answer from the selected chunks.  
 
+---
+
+## 🛠️ Installation
+
+1. Clone this repository:  
    ```bash
-   git clone https://github.com/Himansh9532/Ai_pdf_reader.git
-   cd Ai_pdf_reader
+   git clone https://github.com/Lucifer7344/AskMyPDFs.git
+   cd AskMyPDFs

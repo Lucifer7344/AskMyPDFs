@@ -51,15 +51,15 @@ This tool is powered by **language models** and embeddings to deliver accurate a
 
 3. Start asking questions like:
 
-"What is the summary of chapter 3?"
+   "What is the summary of chapter 3?"
 
-"List all references mentioned in the document
+   "List all references mentioned in the document
 
 
 🤝 Contributing
 
-Contributions are welcome! Feel free to fork this repo, create a new branch, and submit a pull request.
+   Contributions are welcome! Feel free to fork this repo, create a new branch, and submit a pull request.
 
 📜 License
 
-This project is licensed under the MIT License.
+   This project is licensed under the MIT License.

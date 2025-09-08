@@ -34,20 +34,20 @@ This tool is powered by **language models** and embeddings to deliver accurate a
 
 ## Create a virtual environment (recommended):
 
-python -m venv venv
-source venv/bin/activate   # On macOS/Linux
-venv\Scripts\activate      # On Windows
+   python -m venv venv
+   source venv/bin/activate   # On macOS/Linux
+   venv\Scripts\activate      # On Windows
 
 ##Install dependencies:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 ##▶️ Usage
 
 Run the app:
 
-python app.py
+   python app.py
 
 
 Upload your PDF files when prompted.

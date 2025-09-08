@@ -60,6 +60,3 @@ This tool is powered by **language models** and embeddings to deliver accurate a
 
    Contributions are welcome! Feel free to fork this repo, create a new branch, and submit a pull request.
 
-📜 License
-
-   This project is licensed under the MIT License.

@@ -43,8 +43,23 @@ This tool is powered by **language models** and embeddings to deliver accurate a
    pip install -r requirements.txt
 
 
-5. ▶️ Usage
-
- Run the app:
- ```bash
+1. ▶️ Usage Run the app:
+    ```bash
    python app.py
+
+2. Upload your PDF files when prompted.
+
+3. Start asking questions like:
+
+"What is the summary of chapter 3?"
+
+"List all references mentioned in the document
+
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo, create a new branch, and submit a pull request.
+
+📜 License
+
+This project is licensed under the MIT License.
